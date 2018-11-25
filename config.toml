@@ -1,4 +1,4 @@
-baseURL = "http://klintron.org/"
+baseURL = "https://klintron.org/"
 languageCode = "en-us"
 title = "klintron.com"
 theme = "tale"
