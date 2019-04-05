@@ -1,3 +1,9 @@
+title: Rules to the Game of Dungeon Actual Play Report
+author: klintron
+type: page
+date: 2017-11-26T18:28:30+00:00
+
+
 *_Rules to the Game of Dungeon_ Actual Play Report*
 
 Before he co-created Dungeon and Dragons, Dave Arneson spent years playing fantasy role playing games with his friends in the Minneapolis area in the early 1970s. Over time, the idea of playing simple a simple dungeon-themed role playing games spread to other Minneapolis geeks. In 1974, 14 year old Craig VanGrasstek, who had never actually played with Arneson and his group and didn't know D&D existed, published his house rules for the "Game of Dungeon" that he and his friends played (this game has also been referred to as "Minneapolis Dungeon" and "Castle Keep").
