@@ -5,7 +5,7 @@ type: page
 date: 2017-11-26T18:28:30+00:00
 ---
 
-#_Rules to the Game of Dungeon_ Actual Play Report
+# _Rules to the Game of Dungeon_ Actual Play Report
 
 Before he co-created Dungeon and Dragons, Dave Arneson spent years playing fantasy role playing games with his friends in the Minneapolis area in the early 1970s. Over time, the idea of playing simple a simple dungeon-themed role playing games spread to other Minneapolis geeks. In 1974, 14 year old Craig VanGrasstek, who had never actually played with Arneson and his group and didn't know D&D existed, published his house rules for the "Game of Dungeon" that he and his friends played (this game has also been referred to as "Minneapolis Dungeon" and "Castle Keep").
 
@@ -19,7 +19,7 @@ I'm attaching my "Weird Workbook": the tables I used for rolling up baddies, and
 
 https://docs.google.com/document/d/1zsQEZm3lSWMLvqzRCDX65cmzlfHd2Gx0ibpggI0XM48/edit?usp=sharing
 
-#Prep
+# Prep
 
 The game calls for making a map ahead of time, but rolling-up almost all of the encounters on the fly. So I printed out some maps from Dyson's Dodecahedron and made myself some tables. Basically, for each room you'd have a "baddie" (as Minnesota gamers called opponents), a "sage" (NPCs who generally just want to gamble), or a trap. Each room also had treasure, but I used the tables included in _Rules_ for that. Statting up the baddies was the most time consuming part of prep, but wasn't really a big deal.
 
@@ -27,7 +27,7 @@ I also made a bunch of pregens: one for each race (or "denomination" in VanGrass
 
 Because of VanGrasstek and his group's obsession with Herbie Popnecker, I decided that instead of magical "balls," the Wizards would use magical lollipops to cast their spells. So they had "axe pops," "healing pops," "mind control pops," etc.
 
-#The Session
+# The Session
 
 Once everyone had picked a pregen, some of players decided to come up with relationships between their "personas" (two of the elves were sibling rivals, and two of them were also former lovers). Tex, a human priest with a bicycle chain, was appointed leader (the highest level priest is always the party leader in _Rules_). Then they took off for Blad Mountain, where they'd heard treasure abounded (this was the name of one of the "mazes" in one of VanGrasstek's actual play reports republished by Peterson).
 
@@ -39,7 +39,7 @@ Within, the personas used carrots to placate a swarm of Evil Rabbits, killed a G
 
 The highlight of the evening came when one of the Wizards used a mind control pop on an Umber Hulk (he decided that these pops work by hurling them at the baddies head and having it stick there), which he then used to battle an Evil Dentist in another room. The elven warrior took the dentist's drill and used it against one of the giant snapping turtles that attacked them in another room. It penetrated the turtle's shell, but broke. The PCs ended up running away from the turtles and returning to the entrance, digging themselves out, and heading home.
 
-#Thoughts
+# Thoughts
 
 I was worried that this would be unplayable, so I brought along a copy of _Into the Odd_ and a couple one-room dungeons just in case. But it turned out to be a lot of fun. But I'd definitely want to make some adjustments if I were to run it again. There was a _lot_ of whiffing, so I'd definitely want to lower the to-hit numbers both for the personas and the baddies. It took round after round to take out the baddies, and the personas barely even got hurt. If we'd played longer (the whole session, including going over the rules and picking characters, was only three hours), I think it really would have become a grind.
 
