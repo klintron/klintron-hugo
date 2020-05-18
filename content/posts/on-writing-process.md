@@ -32,3 +32,7 @@ Other times, I realize that what I thought was the nut, well, isn't. Sometimes t
 This piece started as a [tweet](https://twitter.com/klintron/status/1246219169781043200) in response to  [tweet](https://twitter.com/kateconger/status/1246209778340122624) by _New York Times_ tech reporter Kate Conger, though I'd actually been thinking about it before. But when I started working on it as a separate essay, the first thing I wrote was the second sentence: "I just start writing wherever I can," which felt appropriate.
 
 I struggle often with "kickers," or endings. But very occasionally I'll think of a snappy last line or spot a good kicker-quote in my notes before I  even start writing. When that happens I'll just start writing with that, then go back to the top of the document and start writing the rest. When I've written until I get to the point that the kicker makes sense, I'm done. It's a surprisingly satisfying way to write.
+
+--
+
+_This essay was adapted from my [e-mail newsletter](https://klintron.com/newsletter/)_
