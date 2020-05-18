@@ -2,7 +2,7 @@
 title: On Writing Process
 author: klintron
 type: post
-date: 2020-17-5T03:38:28+00:00
+date: 2020-05-17T03:37:05+00:00
 url: /2020/on-writing-process/
 categories:
   - Uncategorized
