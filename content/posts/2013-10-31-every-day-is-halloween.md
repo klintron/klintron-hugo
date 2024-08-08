@@ -68,7 +68,7 @@ Wax Trax pressed a few 7″s of “Overkill,” with “I’m Falling” as the 
 
 {{< youtube VfwwVRnlpzQ >}}
 
-“Overkill” and “I’m Falling” are dark post-punk in the same vein as early Killing Joke. But “Cold Life” is a tough one to categorize, as it does have some odder sounds that fit more with the later Wax Trax recordings, but the funky bass lines may be out of place even on _With Sympathy_. But it’s definitely a pop song. “Cold Life” was a minor club hit, charting on the Billboard Dance/Disco chart, and this success may explain some of the shift in Jourgensen’s sound from post-punk to dance pop.
+“Overkill” and “I’m Falling” are dark post-punk in the same vein as early Killing Joke. Much later, Jourgensen [told _Louder_in 2024](https://www.loudersound.com/features/al-jourgensen-soundtrack-of-my-life) that the first Killing Joke album "really focused my direction on where I wanted to be," and also cited Wire's _Pink Flag_ as a key influence. “Cold Life” is a tough one to categorize, as it does have some odder sounds that fit more with the later Wax Trax recordings, but the funky bass lines may be out of place even on _With Sympathy_. But it’s definitely a pop song. “Cold Life” was a minor club hit, charting on the Billboard Dance/Disco chart, and this success may explain some of the shift in Jourgensen’s sound from post-punk to dance pop.
 
 Jourgensen [told _Melody Maker_ in 1982][6] that he was influenced by “American black music” at the time, and he told the _Illinois Entertainer_ that [Chic][7] was the only uptempo music that made him want to dance. The _Entertainer_ noted that early Ministry bass player Lamont Welton is black. He also mentioned the Cure to _Entertainer_, describing Ministry as a sort of blend of Chic and The Cure – of both Ministry of Funk and Ministry of Fear.
 
@@ -202,7 +202,9 @@ _Land_ is also the first album recorded with Paul Barker and Bill Rieflen, and t
 
 {{< youtube H_Puc8POyfM >}}
 
-_Mind_ is best seen as a bridge between _Land_ era Ministry and the speed metal band that we know today. Scaccia joined Ministry for the _Mind_ tour and became a full member for the recording of _Psalm 69_, Ministry&#8217;s most popular — and probably best — album. Scaccia’s influence can be felt through the rest of the Ministry catalog, even when he’s absent. After a detour into sludge metal with _Filth Big_, the band’s evolution more or less stops with _Dark Side of the Spoon_, having settled into a consistent speed metal formula for the duration of their carer.
+_Mind_ is best seen as a bridge between _Land_ era Ministry and the speed metal band that we know today. Scaccia joined Ministry for the _Mind_ tour and became a full member for the recording of _Psalm 69_, Ministry&#8217;s most popular — and probably best — album. Scaccia’s influence can be felt through the rest of the Ministry catalog, even when he’s absent.
+
+[I had originally ended this article somewhat dismissively. I think the old ending was unfair, and plan to expand a bit on the later changes to the band. For now though, i'll leave it here with the introduction of Scaccia to the band as it represents another turning point, and the one that really cemented what Ministry's sound would be for most of their career thus far.]
 
 {{< youtube VREbXHIb5YY >}}
 
